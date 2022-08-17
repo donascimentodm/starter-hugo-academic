@@ -1,21 +1,13 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: Recent-posts
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: 1657740466967.jpg
 ---
+Engenheira agrônoma pela Universidade Estadual de Mato Grosso do Sul (UEMS), com mestrado e doutorado em Agronomia (Proteção de Plantas) na UNESP de Botucatu. Trabalhou com diagnose e controle alternativo de patógenos transmitidos por sementes, e o estudo da sobrevivência de bactérias fitopatôgenicas em plantas daninhas e cultivadas. Possui ampla experiência na diagnose de doenças em plantas, análise moleculares e na condução de experimentos em laboratório, casa de vegetação e a campo. Foi pesquisadora voluntária na Oklahoma State University, sob supervisão do Prof. Dr. Francisco Ochoa-Corona, onde atuou no desenvolvimento de ferramentas de bioinformática para detecção de patógenos em leguminosas através de dados de Next Generation Sequencing (NGS). Foi professora substituta na área de proteção de plantas, subárea manejo de plantas daninhas, na Universidade Federal de Lavras (UFLA). Atualmente, está realizando pós doutorado na Oklahoma State University sob a supervisão do Prof. Dr. Francisco Ochoa-Corona.
